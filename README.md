@@ -16,4 +16,5 @@ Here are some ideas to get you started:
 -->
 
 🌱 I’m currently learning Machine Learning and Data Science
+<br>
 📫 How to reach me: smruthijain.com
